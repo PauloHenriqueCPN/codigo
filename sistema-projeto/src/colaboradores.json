@@ -1,0 +1,83 @@
+[
+    {
+      "nome": "João Silva",
+      "departamento": "Operacional",
+      "prioridade": "Médio",
+      "data": "2023-05-10",
+      "tipoTicket": "Dúvida",
+      "statusTicket": "Aberto"
+    },
+    {
+      "nome": "Maria Assunção",
+      "departamento": "Tecnologia",
+      "prioridade": "Baixo",
+      "data": "2023-05-15",
+      "tipoTicket": "Problema",
+      "statusTicket": "Em resolução"
+    },
+    {
+      "nome": "Pedro Martins",
+      "departamento": "Tecnologia",
+      "prioridade": "Alto",
+      "data": "2023-05-20",
+      "tipoTicket": "Requisição",
+      "statusTicket": "Fechado"
+    },
+    {
+      "nome": "Ana Tello",
+      "departamento": "Operacional",
+      "prioridade": "Alto",
+      "data": "2023-05-25",
+      "tipoTicket": "Dúvida",
+      "statusTicket": "Aberto"
+    },
+    {
+      "nome": "Lucas Almeida",
+      "departamento": "Operacional",
+      "prioridade": "Alto",
+      "data": "2023-05-30",
+      "tipoTicket": "Problema",
+      "statusTicket": "Aberto"
+    },
+    {
+      "nome": "Carla Assis",
+      "departamento": "Tecnologia",
+      "prioridade": "Médio",
+      "data": "2023-06-01",
+      "tipoTicket": "Requisição",
+      "statusTicket": "Em resolução"
+    },
+    {
+      "nome": "Rafael Leiva",
+      "departamento": "Comercial",
+      "prioridade": "Baixo",
+      "data": "2023-06-05",
+      "tipoTicket": "Dúvida",
+      "statusTicket": "Fechado"
+    },
+    {
+      "nome": "Larissa Pereira",
+      "departamento": "Comercial",
+      "prioridade": "Alto",
+      "data": "2023-06-10",
+      "tipoTicket": "Problema",
+      "statusTicket": "Em resolução"
+    },
+    {
+      "nome": "Fernanda Moreira",
+      "departamento": "Tecnologia",
+      "prioridade": "Baixo",
+      "data": "2023-06-15",
+      "tipoTicket": "Requisição",
+      "statusTicket": "Aberto"
+    },
+    {
+      "nome": "Gustavo Marques",
+      "departamento": "Comercial",
+      "prioridade": "Baixo",
+      "data": "2023-06-20",
+      "tipoTicket": "Dúvida",
+      "statusTicket": "Aberto"
+    }
+  ]
+  

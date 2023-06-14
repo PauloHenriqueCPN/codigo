@@ -1,0 +1,73 @@
+[
+    {
+      "nome": "João",
+      "departamento": "operacional",
+      "idade": 35,
+      "genero": "masculino",
+      "salario": 5000
+    },
+    {
+      "nome": "Maria",
+      "departamento": "tecnologia",
+      "idade": 28,
+      "genero": "feminino",
+      "salario": 7000
+    },
+    {
+      "nome": "Pedro",
+      "departamento": "comercial",
+      "idade": 42,
+      "genero": "masculino",
+      "salario": 6000
+    },
+    {
+      "nome": "Ana",
+      "departamento": "operacional",
+      "idade": 31,
+      "genero": "feminino",
+      "salario": 4500
+    },
+    {
+      "nome": "Carlos",
+      "departamento": "tecnologia",
+      "idade": 39,
+      "genero": "masculino",
+      "salario": 8000
+    },
+    {
+      "nome": "Laura",
+      "departamento": "comercial",
+      "idade": 26,
+      "genero": "feminino",
+      "salario": 5500
+    },
+    {
+      "nome": "Mário",
+      "departamento": "operacional",
+      "idade": 33,
+      "genero": "masculino",
+      "salario": 4800
+    },
+    {
+      "nome": "Sofia",
+      "departamento": "tecnologia",
+      "idade": 29,
+      "genero": "feminino",
+      "salario": 6500
+    },
+    {
+      "nome": "Rafael",
+      "departamento": "comercial",
+      "idade": 37,
+      "genero": "masculino",
+      "salario": 7000
+    },
+    {
+      "nome": "Lara",
+      "departamento": "operacional",
+      "idade": 24,
+      "genero": "feminino",
+      "salario": 4200
+    }
+  ]
+  

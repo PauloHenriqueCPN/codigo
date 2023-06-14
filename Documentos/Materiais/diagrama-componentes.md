@@ -1,0 +1,9 @@
+#### Diagrama de componentes
+No contexto do _React_, componentes são, basicamente, __funções__ que englobam outros componentes e retornam, também, elementos na extensão JSX, que é extensão do JavaScript para "mistura" da linguagem com o HTML. Em relação ao projeto, é customizado através da biblioteca _styled-components_ que permite escrever códigos em CSS para personalizar componentes em JSX. Sendo algo fundamental no React, os componentes permitem que possamos reutilizá-los, diminuindo a complexidade do código, ao dividir em blocos menores o projeto a ser construído e possibilitando maior organização e análise de falhas, ao serem feitas em passos distintos.
+
+Além disso, os componentes podem receber _props_ que são propriedades para transferir dados entre componentes, sendo passados como argumentos para as funções que criam os componentes, retornando elementos com as propriedades passadas.  Por fim, os componentes também podem ter seus estados alterados com o uso de _state_, permitindo que possam ter funcionalidades adicionais e dinâmica a página renderizada e que podem ser alterados ao longo do tempo a partir de algum gatilho a ser programado.
+
+O diagrama de componentes ajuda a analisar e projetar como os componentes criados devem agir e se comportar numa página e as relações entre esses componentes e suas funcionalidades a serem seguidas. Cada componente tem uma função importante, principalmente já que há possibilidade de ser reutilizável. No projeto, existe componentes como _SideBar_ e _Header_ que estão presentes na grande maioria das páginas, com funções claras como exibição do acesso, nome do departamento, além de acesso às outras páginas do sistema. O diagrama permite organizar como os componentes estarão posicionados, suas funções ao serem reutilizáveis, além de projetar as interfaces das páginas ao exibir as relações entre esses componentes.
+
+
+
